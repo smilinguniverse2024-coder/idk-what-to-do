@@ -1,0 +1,1 @@
+basic.showNumber(input.temperature())
